@@ -124,3 +124,37 @@ PCA is sensitive to scale and outliers; this version uses raw numeric values and
 **Q: Why can manual and sklearn scores have opposite signs?** A: Eigenvectors are sign-ambiguous: `v` and `−v` define the same axis.
 
 **Q: Is PCA a prediction model?** A: No. It is an unsupervised descriptive transformation that summarizes variation.
+
+# Academic Performance Principal Pattern Analyzer
+
+A Python and Streamlit based PCA application for analyzing multidimensional academic data.
+
+## 🚀 Live Demo
+
+[Open the Streamlit Application](YOUR_STREAMLIT_LINK)
+
+## 🖥️ Application Preview
+
+![Application Preview](screenshots/pca-dashboard.png)
+
+## 🧮 Mathematical Pipeline
+
+DATA
+↓
+MATRIX
+↓
+CENTERING
+↓
+COVARIANCE MATRIX
+↓
+EIGENVALUES & EIGENVECTORS
+↓
+PRINCIPAL COMPONENTS
+↓
+PROJECTION
+↓
+REDUCED REPRESENTATION
+
+## 💻 Source Code
+
+https://github.com/samrudh-source/SammyProject
