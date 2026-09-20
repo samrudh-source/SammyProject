@@ -131,7 +131,7 @@ A Python and Streamlit based PCA application for analyzing multidimensional acad
 
 ## 🚀 Live Demo
 
-[Open the Streamlit Application](YOUR_STREAMLIT_LINK)
+[Open the Streamlit Application](https://sammyproject-v3jjnlynyizv2hulyhquky.streamlit.app/)
 
 ## 🖥️ Application Preview
 
