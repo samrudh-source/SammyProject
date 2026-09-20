@@ -135,7 +135,7 @@ A Python and Streamlit based PCA application for analyzing multidimensional acad
 
 ## 🖥️ Application Preview
 
-![Application Preview](screenshots/pca-dashboard.png)
+![Application Preview](APLLICATION OVERVIEW.png)
 
 ## 🧮 Mathematical Pipeline
 
